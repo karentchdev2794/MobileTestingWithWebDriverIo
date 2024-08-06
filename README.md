@@ -10,9 +10,9 @@ _Entre las herramientas utilizadas esta Cucumber,WebDriverIo._
 _Patrón de diseño utilizado es el Page Object Model._
 
 ### Pre-requisitos 📋
-_Appium_
-_Appium Inspector_
-_Java_
-_Appium_
-_Node_
+_Appium_ ,
+_Appium Inspector_ ,
+_Java_ .
+_Appium_ ,
+_Node_ .
 
